@@ -1,4 +1,4 @@
-# Desarrollo Backend con Go
+# Software Engineering Backend | Golang
 
 Esto repositorio tiene como fin documentar mi proceso de especialización en Desarrollo Backend y evidenciar mi aprendizaje del lenguaje Go.
 
